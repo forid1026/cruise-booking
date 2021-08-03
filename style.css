@@ -122,3 +122,17 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+p>span{
+    cursor: pointer;
+
+}
+
+#book-info{
+    display: none;
+    color: #fff;
+    background-color: #E33741;
+    padding: 5rem;
+    margin-top: 100px;
+    text-align: center;
+
+}
