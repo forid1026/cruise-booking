@@ -117,6 +117,7 @@ nav ul li a:hover, a.active{
     color: #fff;
     font-weight: 500;
     background-color:  #E33741;
+    cursor: pointer;
 }
 .amount{
     display: flex;
